@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oonoxohli.cocktailbrothers.nl/sitemap.xml
